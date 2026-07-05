@@ -1,4 +1,4 @@
-# Nuga Best Lubin — strona salonu
+# Nuga Best Lubin — strona salon
 
 Одностраничный сайт салона Nuga Best в Любине (ul. Stefana Kisielewskiego 22).
 
